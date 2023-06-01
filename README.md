@@ -67,6 +67,9 @@ In this repository, I will create a Simon Game with HTML, CSS and JavaScript. I 
 - [x] Implement Bootstrap & JQuery CDN
 - [x] Optimize Bootstrap & Create layout
 - [x] Add JavaScript
+- [x] Add Sound Functionality
+- [x] Implement Game Pattern & User Pattern
+- [x] Add Event Listeners to Buttons with JQuery
 
 
 
