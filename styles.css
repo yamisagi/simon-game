@@ -62,3 +62,15 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.instructions h2 {
+  font-family: "Press Start 2P", cursive !important;
+  font-size: 1.5rem !important;
+  color: #fef2bf !important;
+}
+
+.instructions p {
+  font-family: "Press Start 2P", cursive !important;
+  font-size: 1rem !important;
+  color: #fef2bf !important;
+}
