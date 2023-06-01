@@ -71,7 +71,8 @@ In this repository, I will create a Simon Game with HTML, CSS and JavaScript. I 
 - [x] Implement Game Pattern & User Pattern
 - [x] Add Event Listeners to Buttons with JQuery
 - [x] Fix Sequence Bug
-- [ ] Add Game Over Functionality
+- [x] Add Game Over Functionality
+- [x] Project Finished & Deployed
 
 
 
