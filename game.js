@@ -5,12 +5,24 @@ let level = 0;
 let started = false;
 
 $(document).keypress(function () {
+
     if (!started) {
         $("#level-title").text("Level " + level);
         nextSequence();
         started = true;
     }
 
+});
+
+// Fix for mobile devices
+// JQuery mobil cihazlarda çalışmıyor. Bu yüzden native JS ile çözüyoruz.
+let body = document.querySelector("body");
+body.addEventListener("touchstart", function () {
+    if (!started) {
+        $("#level-title").text("Level " + level);
+        nextSequence();
+        started = true;
+    }
 });
 
 $(".btn").click(function () {
