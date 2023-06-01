@@ -16,18 +16,30 @@ body {
 
 .red {
   background-color: red;
+  width: 10rem!important;
+  height: 10rem!important;
+  flex: 0 0 auto;
 }
 
 .green {
   background-color: green;
+  width: 10rem!important;
+  height: 10rem!important;
+  flex: 0 0 auto;
 }
 
 .blue {
   background-color: blue;
+  width: 10rem!important;
+  height: 10rem!important;
+  flex: 0 0 auto;
 }
 
 .yellow {
   background-color: yellow;
+  width: 10rem!important;
+  height: 10rem!important;
+  flex: 0 0 auto;
 }
 
 .pressed {

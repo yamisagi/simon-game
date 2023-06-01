@@ -6,7 +6,7 @@
   <h3 align="center">Simon Game</h3>
 
   <p align="center">
-   This repo includes a basic Simon Game
+   This repo includes a basic Simon Game.
      </p>
     <a href="https://github.com/yamisagi/yamisagi"><strong>About Me 💙»</strong></a>
     <br />
@@ -65,6 +65,8 @@ In this repository, I will create a Simon Game with HTML, CSS and JavaScript. I 
 - [x] Add CSS
 - [x] Add Sounds
 - [x] Implement Bootstrap & JQuery CDN
+- [x] Optimize Bootstrap & Create layout
+- [x] Add JavaScript
 
 
 
