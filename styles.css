@@ -74,3 +74,26 @@ body {
   font-size: 1rem !important;
   color: #fef2bf !important;
 }
+
+@media (max-width: 768px) {
+  #level-title {
+    font-size: 1rem !important;
+  }
+  .btn {
+    width: 8rem !important;
+    height: 8rem !important;
+  }
+  .instructions h2 {
+    font-size: 1rem !important;
+  }
+  .instructions p {
+    font-size: 0.6rem !important;
+  }
+}
+
+@media screen and (max-height: 450px) {
+  .btn {
+    width: 6rem !important;
+    height: 6rem !important;
+  }
+}
